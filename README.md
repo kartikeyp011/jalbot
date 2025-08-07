@@ -1,6 +1,6 @@
 ---
 
-## 🧠 JalBot – Water Conservation Chatbot (SDG 6)
+## JalBot – Water Conservation Chatbot (SDG 6)
 
 **JalBot** is an AI-powered chatbot built with Streamlit and Gemini API to educate communities about water conservation, sanitation, and sustainable water usage. It supports multilingual responses and is designed as a quick and impactful project under **SDG 6 – Clean Water and Sanitation**.
 
