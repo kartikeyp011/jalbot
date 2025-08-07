@@ -26,13 +26,6 @@
 
 ---
 
-## 🖼️ Demo Preview
-
-![JalBot UI Screenshot](https://via.placeholder.com/800x400?text=JalBot+Demo+Screenshot)
-*(Replace with your own screenshot or GIF)*
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
